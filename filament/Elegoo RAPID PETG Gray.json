@@ -1,0 +1,55 @@
+{
+    "adaptive_pressure_advance": [
+        "1"
+    ],
+    "adaptive_pressure_advance_bridges": [
+        "0.026"
+    ],
+    "close_fan_the_first_x_layers": [
+        "2"
+    ],
+    "default_filament_colour": [
+        "#808080"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_density": [
+        "1.29"
+    ],
+    "filament_flow_ratio": [
+        "0.99"
+    ],
+    "filament_max_volumetric_speed": [
+        "12"
+    ],
+    "filament_settings_id": [
+        "Elegoo RAPID PETG Gray"
+    ],
+    "from": "User",
+    "inherits": "Elegoo RAPID PETG @ECC",
+    "is_custom_defined": "0",
+    "name": "Elegoo RAPID PETG Gray",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "nozzle_temperature_range_low": [
+        "240"
+    ],
+    "pressure_advance": [
+        "0.058"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
+    ],
+    "version": "1.3.0.8"
+}

@@ -1,0 +1,61 @@
+{
+    "adaptive_pressure_advance": [
+        "1"
+    ],
+    "adaptive_pressure_advance_bridges": [
+        "0.022"
+    ],
+    "default_filament_colour": [
+        "#FFFBF6"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "20.99"
+    ],
+    "filament_density": [
+        "1.31"
+    ],
+    "filament_flow_ratio": [
+        "1.02"
+    ],
+    "filament_max_volumetric_speed": [
+        "12"
+    ],
+    "filament_settings_id": [
+        "Polymaker PLA Matte - Migav"
+    ],
+    "filament_vendor": [
+        "Polymaker"
+    ],
+    "from": "User",
+    "inherits": "Elegoo PLA @ECC",
+    "is_custom_defined": "0",
+    "name": "Polymaker PLA Matte - Migav",
+    "nozzle_temperature": [
+        "225"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "pressure_advance": [
+        "0.044"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "temperature_vitrification": [
+        "62"
+    ],
+    "textured_plate_temp": [
+        "55"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "55"
+    ],
+    "version": "1.3.0.8"
+}

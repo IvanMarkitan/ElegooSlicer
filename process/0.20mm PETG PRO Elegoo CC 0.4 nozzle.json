@@ -1,0 +1,20 @@
+{
+    "bottom_shell_layers": "5",
+    "bottom_shell_thickness": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @Elegoo CC 0.4 nozzle",
+    "inner_wall_line_width": "0.46",
+    "internal_solid_infill_line_width": "0.46",
+    "is_custom_defined": "0",
+    "line_width": "0.46",
+    "name": "0.20mm PETG PRO Elegoo CC 0.4 nozzle",
+    "outer_wall_line_width": "0.46",
+    "print_settings_id": "0.20mm PETG PRO Elegoo CC 0.4 nozzle",
+    "reduce_crossing_wall": "1",
+    "sparse_infill_line_width": "0.46",
+    "support_line_width": "0.46",
+    "top_bottom_infill_wall_overlap": "15%",
+    "top_surface_line_width": "0.46",
+    "version": "1.3.0.8",
+    "wall_loops": "4"
+}

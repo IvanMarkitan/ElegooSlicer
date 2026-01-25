@@ -1,0 +1,25 @@
+{
+    "filament_cost": [
+        "18.99"
+    ],
+    "filament_density": [
+        "1.31"
+    ],
+    "filament_settings_id": [
+        "MATTE PLA IVORY WHITE @ SNAPMAKER"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA @Elegoo Centauri",
+    "is_custom_defined": "0",
+    "name": "MATTE PLA IVORY WHITE @ SNAPMAKER",
+    "nozzle_temperature": [
+        "225"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "version": "1.3.0.11"
+}
