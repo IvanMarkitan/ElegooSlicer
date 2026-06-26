@@ -1,0 +1,8 @@
+{
+    "from": "User",
+    "inherits": "Elegoo Centauri Carbon 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "ECC01 0.4 Elegoo Pla Pro",
+    "printer_settings_id": "ECC01 0.4 Elegoo Pla Pro",
+    "version": "1.5.0.7"
+}
